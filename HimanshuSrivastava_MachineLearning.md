@@ -1,6 +1,6 @@
 ### Machine Learning
-```
 #### Algorithms
+```
 * Linear Regression
 * Logistic Regression
 * Support Vector Machines(SVM/KSVM)
@@ -14,8 +14,9 @@
 * KNN
 * Clustering(K-Means)
 ```
-```
+
 ### Metrics
+```
 * Accuracy Score
 * Precision
 * Recall(Sensitivity)
