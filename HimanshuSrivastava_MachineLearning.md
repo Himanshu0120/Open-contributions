@@ -1,4 +1,7 @@
 ### Machine Learning
+
+#### Library - SkLearn
+
 #### Algorithms
 
 * Linear/Multiple Regression
@@ -14,6 +17,19 @@
 * KNN
 * Clustering(K-Means)
 
+### Deep Learning
+* ANNs
+* RNNs/LSTM
+* Keras/Tensorflow
+* CNNs
+* NLP(Basics)
+* Image Classifiication
+* Losses
+* Optimizers
+* Gradient Descent
+* Backpropagation
+* Transfer Learning
+* HyperParameter Tuning
 
 ### Metrics
 
@@ -39,3 +55,8 @@
 ### Regularization
 * Ridge Regression
 * Lasso Regression
+
+### Hyperparameter Tuning 
+* GridSearchCV
+* RandomizedSearchCV
+* Optuna
