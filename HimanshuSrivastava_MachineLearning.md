@@ -1,7 +1,7 @@
 ### Machine Learning
 #### Algorithms
 
-* Linear Regression
+* Linear/Multiple Regression
 * Logistic Regression
 * Support Vector Machines(SVM/KSVM)
 * Decision Trees(Classification/Regression)
@@ -24,5 +24,18 @@
 * F1 score
 * ROC/AUC
 * Confusion Matrix
+* Classification Report
+* Mean Square Error 
+* Mean Absolute Error 
+* R2 error
 
+### Validation
+* Train test split
+* Crossvalidation
+* K-Fold
+* Leave one out corss validation
+* repeated Random train test split
 
+### Regularization
+* Ridge Regression
+* Lasso Regression
