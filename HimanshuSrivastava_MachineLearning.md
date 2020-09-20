@@ -1,5 +1,5 @@
 ### Machine Learning
-'''
+```
 #### Algorithms
 * Linear Regression
 * Logistic Regression
@@ -13,7 +13,8 @@
 * PCA
 * KNN
 * Clustering(K-Means)
-
+```
+```
 ### Metrics
 * Accuracy Score
 * Precision
@@ -23,4 +24,4 @@
 * ROC/AUC
 * Confusion Matrix
 
-'''
+```
